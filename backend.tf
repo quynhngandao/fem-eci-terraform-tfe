@@ -3,7 +3,7 @@ terraform {
     organization = "daoquynh29"
 
     workspaces {
-      name = "fem-eci-workspace"
+      name = "fem-eci-tfe"
     }
   }
 }
